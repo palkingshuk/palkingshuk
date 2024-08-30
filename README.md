@@ -1,4 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m @palkingshuk
+👀 I’m interested in Web developement
+🌱 I’m currently learning DSA and web developement
+📫 How to reach me Twitter | LeetCode | LinkedIn
+enter image description here
+
+🐍 My Contributions 🐍
+
+snake eating my contributions
+
+
 
 <!--
 **palkingshuk/palkingshuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
